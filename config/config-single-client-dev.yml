@@ -1,5 +1,5 @@
 data:
-  env: localhost-dev-edit888
+  env: localhost-dev
   user:
-    username: fengzheng-dev999
+    username: gssun-dev
     password: password-dev

@@ -3,3 +3,15 @@ data:
   user:
     username: gssun-online
     password: password-online
+    eureka-server:
+        ip: localhost
+        port: 30000
+    eureka-config-server:
+        port: 34040
+        gitUrl: https://github.com/gssun/springcloud
+        gitUserName: gssun
+        gitPassword: test
+        gitSearchPath: config
+    eureka-config-consumer:
+        port: 34050
+

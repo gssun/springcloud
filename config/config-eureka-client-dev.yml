@@ -10,7 +10,7 @@ data:
       port: 34040
       gitUrl: https://github.com/gssun/springcloud
       gitUserName: gssun
-      gitPassword: /*654752Sun*/
+      gitPassword: test
       gitSearchPath: config
     eureka-config-consumer:
       port: 34050
